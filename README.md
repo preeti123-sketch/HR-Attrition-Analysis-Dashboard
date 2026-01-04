@@ -1,17 +1,17 @@
-## 👥 HR Attrition Analysis Dashboard
+#👥 HR Attrition Analysis Dashboard
 
 This project analyzes employee attrition data to identify factors contributing to employee turnover.
 
-# 📂 Tools & Setup
+## 📂 Tools & Setup
 - Excel
 
-# 📄 Dataset
+## 📄 Dataset
 - Employee demographics
 - Job roles
 - Salary
 - Attrition status
 
-# 🎯 Business Questions
+## 🎯 Business Questions
 - What factors influence attrition?
 - Which departments have high attrition?
 - Does salary impact employee retention?
